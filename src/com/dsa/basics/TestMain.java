@@ -1,4 +1,4 @@
-package com.dsa;
+package com.dsa.basics;
 
 public class TestMain {
     static int x = 90;
