@@ -1,4 +1,4 @@
-package com.dsa.searching;
+package com.dsa.searching.linearSearch;
 
 public class SearchInRange {
     public static void main(String[] args){
