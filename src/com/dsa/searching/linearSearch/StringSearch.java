@@ -1,4 +1,4 @@
-package com.dsa.searching;
+package com.dsa.searching.linearSearch;
 
 
 
