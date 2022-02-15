@@ -1,6 +1,6 @@
 package com.dsa.searching.binarySearch;
 
-public class basicBinarySearch {
+public class BasicBinarySearch {
     public static void main(String[] args){
 
         int[] arr = {3,5,8,9,12,45,78,89,91,94};
